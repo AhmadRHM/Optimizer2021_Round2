@@ -44,7 +44,7 @@
 ![l1_problem](https://github.com/AhmadRHM/Optimizer2021_Round2/blob/main/images/l1_problem.png)  
   برای حل این مساله نیز، آن را به شکل زیر به یک برنامه‌ریزی خطی تبدیل کردیم:
 
-![l1_problem_lp](https://github.com/AhmadRHM/Optimizer2021_Round2/blob/main/images/l1_problem_lp.png)  
+![l1_problem_lp](https://github.com/AhmadRHM/Optimizer2021_Round2/blob/main/images/l1_lp_problem.png)  
   در مساله فوق، بردار
   v<sup>abs</sup>
   قدر مطلق مقادیر بردار v خواهد بود چرا که هدف کمینه کردن مجموع درایه‌های آن است و همچنین با توجه به شروطی که برای v و 
